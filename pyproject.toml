@@ -1,7 +1,7 @@
 [project]
 name = "mask_times"
-version = "0.1.0"
-description = "Default template for PDM package"
+version = "1.0.0"
+description = "mulitply func added"
 authors = [
     {name = "GITSangWoo", email = "dogcenta@gmail.com"},
 ]
